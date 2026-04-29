@@ -1,0 +1,153 @@
+{
+	"title": {
+		"heading": "MozGo Compra e coleta de produtos da África do Sul para Moçambique"
+	},
+  "nav1": {
+		"langBtn": "Switch to English",
+		"give-away": "FREE T-shirt on second order",
+    "whatsapp": "Whatsapp call"
+  },
+  "nav2": {
+    "home": "Início",
+    "about": "Sobre Nós",
+		"services": "nossos serviços",
+		"quote": "Solicitar cotação"
+  },
+	"hero": {
+			"part1": "Precisa de algum produto da",
+    	"part2": "África do Sul?",
+    	"part3": "Dê-nos o Nome da Loja e o Nome do Produto",
+			"info": "Entre em contato conosco pelo WhatsApp",
+			"orderBtn": "Fazer pedido"
+	},
+	"about": {
+		"opening": "Sobre Nós",
+		"title": "Seu personal comprador e colecionador na ",
+		"titleSpan": "África do Sul",
+		"part1": "Está em ",
+    	"part2": "Moçambique ",
+    	"part3": "e precisa comprar produtos da África do Sul sem precisar viajar? Nós somos o seu representante local. Seja moda de rua ou itens essenciais do dia a dia, compramos e coletamos ",
+		"part4": "o produto exato que você precisa em poucas horas",
+		"chipsTitle": "Nós encomendamos ou compramos para você em lojas como",
+		"moreStores": "+ Muito Mais",
+		"deliveryNote": "depois da compra, estabelecemos parcerias com fornecedores de logística de elite para garantir ",
+		"strongPara2": "a entrega segura em Moçambique",
+		"completeOrders": "Pedidos concluídos",
+		"Networks": "Redes Futuras",
+		"members": "Membros da equipe",
+		"turnaround": "Retorno rápido",
+		"deliveryTime": "Entrega em 24hr"
+	},
+	"services": {
+		"opening": "Nossos serviços",
+		"title": "Obtenha  ",
+		"title2": "Qualquer Produto ",
+		"title3": "da África do Sul Através de Nós",
+		"description": "Fazemos mais do que apenas comprar produtos para você. Vamos aos seus locais escolhidos em torno de Joanesburgo, África do Sul, recolher os seus itens e entregá-los para Moçambique",
+		"quote": "Solicitar cotação",
+		"service1title": "Compre Para Mim",
+		"service1info": "Escolha o produto que deseja em qualquer loja sul-africana, como PEP, HiFi Corp, Dis-Chem e outras, e nós cuidaremos das compras para você. Também oferecemos serviço de entrega",
+		"service2title": "Recolher a Minha Encomenda",
+		"service2info": "Já fez compra online? Nós cuidamos da recolha física em escritórios ou lojas em seu nome",
+		"service3title": "Pegar Meu Pacote",
+		"service3info": "Precisa que busquemos um item em uma residência particular, como a casa de um amigo em Joanesburgo? Nós cuidamos disso para você",
+		"service4title": "Opção de entrega",
+		"service4info": "depois de compramos ou recolhermos o seu produto, você escolhe se deseja entrega em Moçambique ou se prefere retirá-lo na África do Sul",
+		"fillForm": "Preencher formulário →"
+	},
+	"howItWorks": {
+		"title": "como ",
+		"title2": "funciona",
+		"heading1": "CONECTE-SE CONOSCO",
+		"info1": "Entre em contato conosco pelo WhatsApp ou utilize o formulário de pedido abaixo.",
+		"heading2": "NOME DO PRODUTO",
+		"info2": "Forneça o nome do produto que você deseja que compremos ou coletemos",
+		"heading3": "NOME DA LOJA",
+		"info3": "Forneça o nome da loja ou o localização onde seu produto pode ser encontrado",
+		"heading4": "COTAÇÃO",
+		"info4": "Uma cotação será enviada para o seu número do WhatsApp e endereço de e-mail",
+		"heading5": "PAGAMENTO",
+		"info5": "Envie o comprovante de pagamento via WhatsApp ou e-mail.",
+		"heading6": "COMPRAR",
+		"info6": "Assim que o pagamento for feito, compraremos ou recolheremos o seu produto no local escolhido",
+		"heading7": "CUMPRIMENTO",
+		"info7": "Em seguida, você escolhe se deseja a opção de entrega ou de retirada",
+		"ctaHeading": "Pronto para começar?",
+		"ctaInfo": "Vamos comprar ou recolher o seu produto hoje mesmo!",
+		"ctaLink": "Faça O Pedido Agora"
+	},
+	"chooseService": {
+		"chooseHeading1": "PASSO 1: ",
+		"chooseHeading2": "SELECIONE O SERVIÇO DESEJADO",
+		"firstService": "Compre Para Mim",
+		"secondService": "Recolher a Minha Encomenda",
+		"thirdService": "Pegar Meu Pacote",
+		"finalService": "Encomende pelo WhatsApp"
+	},
+	"inputForm": {
+		"title1": "Compre Para Mim",
+		"info1": "Fazemos compras para você em qualquer loja ou escritório na África do Sul. Por favor, preencha este formulário para que possamos comprar o seu produto",
+		"title2": "Recolher a Minha Encomenda",
+		"info2": "Se você comprou online, nós coletaremos o produto para você. Por favor, preencha este formulário para que possamos coletar seu encomenda",
+		"title3": "Pegar Meu Pacote",
+		"info3": "Precisa que busquemos um item em uma residência particular, como a casa de um amigo em Joanesburgo?",
+		"name": "Nome",
+		"email": "E-mail",
+		"number": "Número do WhatsApp",
+		"confirmNumb": "Confirmar número",
+		"numbOfProducts1": "Quantos produtos você quer que compremos?",
+		"numbOfProducts2": "Quantos produtos você quer que a gente colete?",
+		"numbOfProducts3": "Quantos itens você quer que a gente recolha?",
+		"linkSpan": "Tems uma foto do produto que precisa? Envie-nos uma mensagem no ",
+		"wtspLink": "WhatsApp",
+		"orderBtn": "Obtenha Seu Orçamento Gratuito",
+		"storeName": "Nome da loja ou local",
+		"productName": "Nome do produto (seja específico)"
+	},
+	"Whatsapp": {
+		"textHeading": "Contate-nos via ",
+		"textTitle": "WhatsApp",
+		"info": "Obtenha uma resposta em segundos • Agentes reais, sem IA",
+		"action": "Converse agora "
+	},
+	"reviews": {
+		"heading1": "Aprovado por ",
+		"heading2": "Famílias",
+		"heading3": " & ",
+		"heading4": "Empresas ",
+		"heading5": "em Moçambique",
+		"review1": "``Não preciso me preocupar em ficar correndo de loja em loja ou viajando até a África do Sul para comprar produtos. Eles facilitaram muito minhas compras. Recomendo demais!``",
+		"review2": "História de cliente feliz",
+		"review3": "``Serviço incrível! Enviei uma lista dos produtos que queria e eles compraram tudo nas lojas que mencionei: 'Ackermans', 'iStore' e 'Studio 88'. Depois da compra, entregaram meus produtos em Maputo. Profissionais, rápidos e confiáveis.``",
+		"review4": "Sua satisfação é a nossa felicidade.",
+		"review5": "Este site é tão eficiente e útil que não preciso mais viajar de Moçambique para a África do Sul só para buscar meus pedidos da Takealot e de outras lojas; eles os coletam para mim e os enviam para o meu endereço em Maputo.",
+		"review6": "mais um cliente feliz"
+	},
+	"faq": {
+		"title": "Perguntas frequentes",
+		"question1": "Como funciona o seu serviço?",
+		"answer1": "Use nosso site (formulário) ou WhatsApp para nos informar qual produto você deseja que compremos ou busquemos em qualquer local da África do Sul, Joanesburgo. Iremos até o local escolhido, pegaremos o produto e enviaremos fotos. Em seguida, você nos informará se deseja que façamos a entrega ou se enviará alguém para retirar o produto na África do Sul.",
+		"question2": "Como funciona o seu serviço de entrega?",
+		"answer2": "Depois de comprarmos ou buscarmos seus itens, trabalhamos com uma transportadora confiável para levar os produtos até Moçambique. Entraremos em contato com você na manhã seguinte, assim que a encomenda chegar, e você poderá retirá-la com segurança usando o comprovante enviado pelo WhatsApp.",
+		"question3": "Quanto custa o seu serviço?",
+		"answer3": "Depois de fazer uma encomenda (via WhatsApp ou através do formulário do site), enviamos um orçamento com o valor do serviço, pois este depende do tamanho do artigo.",
+		"question4": "Como posso ter certeza de que meu dinheiro está seguro?",
+		"answer4": "O método de pagamento é MPESA, e seus pagamentos são processados ​​de forma segura e transparente. Confirmamos a disponibilidade dos itens antes da compra, enviamos fotos do produto, além de fornecer recibos para cada pedido e mantê-lo informado durante todo o processo. Sua confiança é importante para nós, e trabalhamos apenas com lojas verificadas e empresas de entrega confiáveis."
+	},
+	"mission": {
+		"title": "Nossa missão",
+		"info1": "Nossa missão vem da experiência de precisar de algo importante e não saber como conseguir. Dedico-me a ajudar nosso povo em Moçambique, comprando e recolhendo os seus produtos na África do Sul e entregando-os em segurança. Já não precisa de viajar até à África do Sul para comprar um determinado produto – sejam eletrónicas, roupa ou material de escritório – tratamos cada encomenda pessoalmente, com cuidado, transparência e atenção ao detalhe.",
+		"info2": "Para mim, isto não é apenas um trabalho de coleta e entrega. Eu não vejo apenas pacotes, mas sim pessoas confiando em mim para atender às suas necessidades. Trata-se de confiabilidade e conexão, de ser alguém em quem você pode confiar quando mais importa."
+	},
+	"footer": {
+		"company": "EMPRESA",
+		"about": "Sobre nós",
+		"services": "Nossos serviços",
+		"faq": "Perguntas frequentes",
+		"slogan": "Sua ligação confiável entre a África do Sul e Moçambique",
+		"inTouch": "ENTRE EM CONTATO",
+		"ourAgent": "Fale com o nosso agente, de segunda a domingo, das 08:00 às 17:00",
+		"orderTime": "Faça seu pedido a qualquer hora do dia",
+		"licence": "© 2026 MozGoExpress Enterprise. Todos os direitos reservados."
+	}
+}

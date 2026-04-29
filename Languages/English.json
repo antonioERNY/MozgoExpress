@@ -1,0 +1,154 @@
+{
+	"title": {
+		"heading": "MozGo Buying and collecting products from S.A to MOZ"
+	},
+  "nav1": {
+	"langBtn": "Mudar para português",
+	"give-away": "FREE T-shirt on second order",
+	"whatsapp": "Call On Whatsapp"
+  },
+  "nav2": {
+    "home": "Home",
+    "about": "About Us",
+	"services": "Our Services",
+	"quote": "Request Quote"
+  },
+	"hero": {
+		"part1": "Need any products from",
+    	"part2": "South Africa?",
+    	"part3": "Give us the Store Name and the Product Name",
+		"info": "Contact Us Via Whatsapp",
+		"orderBtn": "Place Order"
+	},
+	"about": {
+		"opening": "About Us",
+		"title": "Your Personal Shopper and Collector in ",
+		"titleSpan": "South Africa",
+		"part1": "Are you in ",
+    	"part2": "Mozambique ",
+    	"part3": "and need to buy products from South Africa without traveling? We act as your local feet on the ground. Whether it's high-street fashion, daily essentials or business equipment, we shop and collect the ",
+		"part4": "exact product you need within hours",
+		"chipsTitle": "We Order or Buy for you from shops like",
+		"moreStores": "+ Many More",
+		"deliveryNote": "After purchasing, we partner with elite logistics providers to ensure ",
+		"strongPara2": "safe delivery in Mozambique",
+		"completeOrders": "Orders Completed",
+		"Networks": "Future Networks",
+		"members": "Team Members",
+		"turnaround": "Fast Turnaround",
+		"deliveryTime": "24h Delivery"
+	},
+	"services": {
+		"opening": "Our Services",
+		"title": "Get ",
+		"title2": "Any Product ",
+		"title3": "From South Africa Through Us",
+		"description": "We do more than just buy products for you. We go to your preferred locations around Johannesburg, South Africa, Collect your items, and deliver them to Mozambique",
+		"quote": "Get Free Quotation",
+		"service1title": "Buy For Me",
+		"service1info": "Pick a product you want from any South African store like, PEP, HiFi Corp, Dis-Chem and more - then we'll handle the shopping for you. We also offer delivery",
+		"service2title": "Collect My Order",
+		"service2info": "Did you order a product online already? We handle the physical collection from offices or stores on your behalf",
+		"service3title": "Pickup My Parcel",
+		"service3info": "Need an item picked up from a private residence like your friend's house in Johannesburg? We've got you covered",
+		"service4title": "Delivery Option",
+		"service4info": "Once we've bought or collected your item, you choose whether you want delivery to Mozambique or pickup from South Africa",
+		"fillForm": "Fill Form →"
+	},
+	"howItWorks": {
+		"title": "How it ",
+		"title2": "Works",
+		"heading1": "CONNECT WITH US",
+		"info1": "Contact us on Whatsapp or use the Order Form below",
+		"heading2": "PRODUCT NAME",
+		"info2": "Provide the name of the product you want us to buy or collect",
+		"heading3": "STORE NAME",
+		"info3": "Provide the store name or location where your product can be found",
+		"heading4": "QUOTATION",
+		"info4": "A quotation will be sent to your WhatsApp number and email address",
+		"heading5": "PAYMENT",
+		"info5": "Provide proof of payment via WhatsApp or email",
+		"heading6": "PURCHASE",
+		"info6": "Once payment is made, we'll buy or collect your product from your chosen location",
+		"heading7": "FULFILMENT",
+		"info7": "Then you choose whether you want delivery or collection option",
+		"ctaHeading": "Ready To Start?",
+		"ctaInfo": "Let us buy or collect your product Today!",
+		"ctaLink": "Place Order Now"
+	},
+	"chooseService": {
+		"chooseHeading1": "STEP 1: ",
+		"chooseHeading2": "SELECT SERVICE YOU WANT",
+		"firstService": "Buy For Me",
+		"secondService": "Collect My Order",
+		"thirdService": "Pickup My Parcel",
+		"finalService": "Order Via WhatsApp"
+	},
+	"inputForm": {
+		"serviceNumb1": "Service 1",
+		"title1": "Buy For Me",
+		"info1": "We shop at any store or office in South Africa for you. Please fill out this form so we can purchase your product",
+		"title2": "Collect For Me",
+		"info2": "If you bought it online, we will collect it for you. Please fill out this form so we can collect your order",
+		"title3": "Pickup My Parcel",
+		"info3": "Need us to pickup something from a private location, like your friend's house in Johannesburg? Fill out this form",
+		"name": "Name",
+		"email": "E-mail",
+		"number": "WhatsApp Number",
+		"confirmNumb": "Confirm Number",
+		"numbOfProducts1": "How many products you want us to buy?",
+		"numbOfProducts2": "How many products you want us to collect?",
+		"numbOfProducts3": "How many items you want us to pickup",
+		"linkSpan": "Got a photo of the product you need? Message us on ",
+		"wtspLink": "WhatsApp",
+		"orderBtn": "Get Your Free Quotation",
+		"storeName": "Store or Location Name",
+		"productName": "Product Name (be specific)"
+	},
+	"Whatsapp": {
+		"textHeading": "Contact us via ",
+		"textTitle": "WhatsApp",
+		"info": "Get a response in seconds • Real agents, no A.I",
+		"action": "Chat Now "
+	},
+	"reviews": {
+		"heading1": "Trusted by ",
+		"heading2": "Families",
+		"heading3": " & ",
+		"heading4": "Companies",
+		"heading5": "across Mozambique",
+		"review1": "``I dont have to worry about running around stores or traveling all the way to South Africa to buy products. They made shopping so easy for me. Highly recommended!``",
+		"review2": "Happy client story",
+		"review3": "``Incredible service! I just sent a list of products I wanted and everything was bought from all the stores i mentioned, 'Ackermans', 'iStore' and 'Studio 88'. After the purchase they delivered my products to Maputo. Professional, fast and reliable.``",
+		"review4": "Sua satisfação é a nossa felicidade.",
+		"review5": "This website is so effective and helpful, I don't need to travel from Mozambique to South Africa just to collect my orders from Takealot and other stores, they collect them for me and send them to my location in Maputo.",
+		"review6": "another happy customer"
+	},
+	"faq": {
+		"title": "Frequently Asked Questions",
+		"question1": "How does your service work?",
+		"answer1": "Use our Website(form) or WhatsApp to let us know which product you want us to buy or collect from any location in South Africa, Johannesburg. We'll go to your chosen location, get your product and send you pictures. You then let us know if you want us to handle delivery or you'll send someone to pick up in South Africa.",
+		"question2": "How does your delivery work?",
+		"answer2": "Once your items are purchased or collected, we work with reliable delivery company to transport the products Mozambique. You'll be contacted the next morining upon arrival, then go to collect safely using the WhatsApp receipt we provide.",
+		"question3": "How much does your service cost?",
+		"answer3": "After placing an order (WhatsApp or Website form), we'll send you a quotation displaying how much the service will cost, as it depends on the size of the item.",
+		"question4": "How do i know my money is safe?",
+		"answer4": "Payment method is MPESA, and your payments are handled securely and transparently. We confirm items availability before purchasing, we send photos of the product and let you decide if you will take it or not, we also provide receipts for every order, and keep you updated throughout the process. Your trust matters to us, and we only work with verified stores and reliable delivery companies."
+	},
+	"mission": {
+		"title": "Our Mission",
+		"info1": "Our mission comes from knowing what it feels like to need something important and not know how to get it. I dedicate myself to helping our people back home by buying and collecting their products from South Africa then deliver to Mozambique. You no longer need to travel to South Africa just to buy a certain product - It can be electronics, clothing, or business supplies - We handle every order personally with care, transparency and attention to detail.",
+		"info2": "This isn't just collection and delivery work to me, I don't see packages - I see people trusting me with their needs. It's about reliability and connection, about being someone you can depend on when it matters most."
+	},
+	"footer": {
+		"company": "COMPANY",
+		"about": "About Us",
+		"services": "Our Services",
+		"faq": "FAQ",
+		"slogan": "Your Reliable Link Between S.A and MOZ",
+		"inTouch": "GET IN TOUCH",
+		"ourAgent": "Speak to our agent from Monday to Sunday 08:00 - 17:00",
+		"orderTime": "Order anytime of the day",
+		"licence": "© 2026 MozGoExpress Enterprise. All rights reserved."
+	}
+}
