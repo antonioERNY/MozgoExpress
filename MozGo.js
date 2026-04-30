@@ -1,11 +1,11 @@
 
 // -------- lANGUAGE ------
-let currentLang = localStorage.getItem('language') || 'English';
+let currentLang = localStorage.getItem('Languages') || 'English';
 
 async function updateLanguage(lang) {
   try {
     // 1. Fetch the JSON file for the selected language
-    const response = await fetch(`./languages/${lang}.json`);
+    const response = await fetch(`./Languages/${lang}.json`);
     const translations = await response.json();
 
     // 2. Find all elements with the 'data-i18n' attribute
@@ -26,7 +26,7 @@ async function updateLanguage(lang) {
 
     // Save choice and update state
     currentLang = lang;
-    localStorage.setItem('language', lang);
+    localStorage.setItem('Languages', lang);
   } catch (error) {
     console.error("Could not load language file:", error);
   }
